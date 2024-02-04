@@ -1,4 +1,4 @@
-//cars
+//car
 class Car {
 	
 	private String color;
